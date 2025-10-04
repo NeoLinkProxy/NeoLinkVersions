@@ -1,4 +1,4 @@
-'jar': 'https://github.com/NeoLinkProxy/NeoLink/releases/download/3.2/NeoLink-3.2-RELEASE.jar' # jar 文件
-'exe': 'https://github.com/NeoLinkProxy/NeoLink/releases/download/3.2/NeoLink-3.2-RELEASE.exe' # exe 文件
-'config': 'https://github.com/NeoLinkProxy/NeoLink/releases/download/3.2/config.cfg' # 配置文件
-'env': 'https://github.com/NeoLinkProxy/NeoLink/releases/download/3.2/NeoLink-3.2-env-bundled.7z' # 包含环境的文件
+'jar': 'NeoLinkProxy/NeoLink/releases/download/3.2/NeoLink-3.2-RELEASE.jar' # jar 文件
+'exe': 'NeoLinkProxy/NeoLink/releases/download/3.2/NeoLink-3.2-RELEASE.exe' # exe 文件
+'config': 'NeoLinkProxy/NeoLink/releases/download/3.2/config.cfg' # 配置文件
+'env': 'NeoLinkProxy/NeoLink/releases/download/3.2/NeoLink-3.2-env-bundled.7z' # 包含环境的文件
