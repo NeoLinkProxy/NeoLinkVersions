@@ -2,4 +2,4 @@
 'exe': 'NeoLinkProxy/NeoLink/releases/download/3.3/NeoLink-3.3-RELEASE.exe' # exe 文件
 'config': 'NeoLinkProxy/NeoLink/releases/download/3.3/config.cfg' # 配置文件
 'env': 'NeoLinkProxy/NeoLink/releases/download/3.3/NeoLink-3.3-env-bundled.7z' # 包含环境的文件
-'version': '3.3' # 版本
+'version': '3.3' # 版本（Version.yaml里不需要存在）
