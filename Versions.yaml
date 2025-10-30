@@ -1,5 +1,5 @@
-'4.7.1': 
-  'jar': 'NeoLinkProxy/NeoLink/releases/download/4.7.1/NeoLink-4.7.1.jar' # jar 文件
-  'exe': 'NeoLinkProxy/NeoLink/releases/download/4.7.1/NeoLink-4.7.1.exe' # exe 文件
-  'config': 'NeoLinkProxy/NeoLink/releases/download/4.7.1/config.cfg' # 配置文件
-  'env': 'NeoLinkProxy/NeoLink/releases/download/3.6/NeoLink-4.7.1-env-bundled.7z' # 包含环境的文件
+'4.7.2': 
+  'jar': 'NeoLinkProxy/NeoLink/releases/download/4.7.2/NeoLink-4.7.2.jar' # jar 文件
+  'exe': 'NeoLinkProxy/NeoLink/releases/download/4.7.2/NeoLink-4.7.2.exe' # exe 文件
+  'config': 'NeoLinkProxy/NeoLink/releases/download/4.7.2/config.cfg' # 配置文件
+  'env': 'NeoLinkProxy/NeoLink/releases/download/3.6/NeoLink-4.7.2-env-bundled.7z' # 包含环境的文件
